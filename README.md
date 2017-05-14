@@ -6,3 +6,5 @@ The working repository for course [Using Redux to manage state in Angular 2](htt
 * Single source of truth
 * State is read only
 * Pure functions drive state changes
+
+[!Alt Redux Pattern](/assets/redux.JPG)
